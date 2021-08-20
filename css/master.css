@@ -22,7 +22,10 @@
   
    }
 design{
-  height:100px;
+  height: 100%;
+        width: 100%;
+        background: url(first.jpg) no-repeat 50% 50% fixed;
+        background-size: cover;
 
 }
 
